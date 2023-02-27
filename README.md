@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atankit&label=Profile%20views&color=0e75b6&style=flat" alt="atankit" /> </p>
 
-- 🌱 I’m currently learning **React Native & Android**
+- 🌱 I’m currently learning **Java & Android**
 
 - 📫 How to reach me **thapliyalankit60@gmail.com**
 
