@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **thapliyalankit60@gmail.com**
 
-- ⚡ Fun fact **Yes, I'm noob**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ankit-thapliyal-9522a2185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-thapliyal-9522a2185" height="30" width="40" /></a>
