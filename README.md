@@ -17,7 +17,7 @@
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/hibernate/index.html&backText=Return+to+VectorLogoZone" alt="spring" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://images.app.goo.gl/xedHfMTVt8moKGbb7" alt="spring" width="40" height="40"/> </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
