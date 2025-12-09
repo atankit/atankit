@@ -20,7 +20,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
   </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;;
+
 
   <a href="mailto:thapliyalankit27@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="30"/>
