@@ -34,7 +34,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45"/>
-img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" height="45"/>
 </p>
