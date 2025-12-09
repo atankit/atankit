@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Thapliyal</h1>
-<h3 align="center">Backend Developer | Java • Spring Boot • Android • Flutter</h3>
+<h3 align="center">Flutter Developer </h3>
 
 <img align="right" width="350" src="https://res.cloudinary.com/mohin-in/image/upload/v1600498904/main/hero.gif"/>
 
@@ -7,24 +7,23 @@
   <img src="https://komarev.com/ghpvc/?username=atankit&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on **Java, Spring Boot & Flutter**  
+- 🔭 I’m currently working on **Flutter Developer**  
 - 🌱 Learning **Advanced Java, Android & Backend Architecture**  
 - 💡 Strong interests in **REST APIs, Databases, Cloud & Mobile Apps**  
-- 📫 Reach me at **thapliyalankit27@gmail.com**
 
----
 
 ### 🌐 Connect With Me  
 <p>
   <a href="https://www.linkedin.com/in/ankit-thapliyal7/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
   </a>
-</p>
 
----
+  <a href="mailto:thapliyalankit27@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="30"/>
+  </a>
+</p>
 
 ### 🛠 Languages & Tools  
 <p>
@@ -46,30 +45,10 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" height="45"/>
 </p>
 
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=atankit&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=atankit&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atankit&theme=tokyonight&row=1&no-frame=true"/>
-</p>
-
----
-
 ### 💼 Projects & Interests  
 - 📱 Android + Flutter App Development  
-- 🧠 Backend: Java, Spring Boot, APIs  
+- 🧠 Backend: Java, Dart, Spring Boot, APIs
 - 🗄 Databases: MySQL, Firebase, SQLite  
 - ☁ Cloud Services & Deployment  
 - 🔧 Clean Architecture & Scalable Backend Design  
 
----
-
-⭐ **If you like my work, consider giving a star to my repositories!**
