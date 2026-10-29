@@ -18,6 +18,9 @@ I'm a Mobile Application Developer with 1+ year of experience in Flutter develop
 - 🎨 Interested in clean UI, reusable widgets, state management, and app performance.
 - 🌱 Continuously learning advanced Flutter, Native Android, Java, and backend architecture.
 - 🤝 **Open to opportunities in Flutter Development | Native Android Development | Mobile Application Development.**
+- <p align="center">
+  🟢 <b>Open to Opportunities</b> — Flutter Development | Native Android Development | Mobile Application Development
+</p>
 
 ## 🛠️ Tech Stack
 
