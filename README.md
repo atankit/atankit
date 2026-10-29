@@ -56,9 +56,6 @@ I'm a Mobile Application Developer with 1+ year of experience in Flutter develop
 
 ## 🌐 Connect With Me
 
-
-<h2 align="center">🤝 Let's Connect</h2>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ankit-thapliyal7/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
@@ -72,25 +69,6 @@ I'm a Mobile Application Developer with 1+ year of experience in Flutter develop
     <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
   </a>
 </p>
-
-<p align="center">
-  <b>📱 Mobile Development · ☕ Java · 🚀 Continuous Learning</b>
-</p>
-
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ankit-thapliyal7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:thapliyalankit27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/atankit">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
 
 <p align="center">
   <b>Building useful applications, learning continuously, and growing as a developer. 🚀</b>
