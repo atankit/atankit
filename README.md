@@ -5,11 +5,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Developer;Building+Android+and+iOS+Applications;Firebase+%7C+REST+APIs+%7C+Java;Learning+Backend+Architecture" alt="Typing SVG" />
 </p>
---------
+
 
 ## 🚀 About Me
 
-I'm a Mobile Application Developer with **1+ year of experience as a Flutter Developer**, passionate about building responsive, user-friendly, and scalable applications.
+I'm a Mobile Application Developer with 1+ year of experience in Flutter development, passionate about building responsive, user-friendly, and scalable mobile applications for Android and iOS.
 
 - 📱 Experienced in developing cross-platform mobile applications using Flutter and Dart.
 - 🔥 Worked with Firebase Authentication, Cloud Firestore, and other Firebase services.
@@ -17,14 +17,7 @@ I'm a Mobile Application Developer with **1+ year of experience as a Flutter Dev
 - ☕ Knowledge of Java, Spring Boot, Hibernate, and SQL databases.
 - 🎨 Interested in clean UI, reusable widgets, state management, and app performance.
 - 🌱 Continuously learning advanced Flutter, Native Android, Java, and backend architecture.
-- 🤝 **Open to opportunities in Flutter, Android, and Mobile Application Development.**
-
-  
-### 🚀 About Me  
-- 🔭 I’m currently working on **Flutter Developer**  
-- 🌱 Learning **Flutter, Advanced Java & Backend Architecture**  
-- 💡 Strong interests in **Mobile Apps, REST APIs, Databases, Java**  
-
+- 🤝 **Open to opportunities in Flutter Development, Native Android Development, and Mobile Application Development.**
 
 ### 🌐 Connect With Me  
 <p>
@@ -32,11 +25,30 @@ I'm a Mobile Application Developer with **1+ year of experience as a Flutter Dev
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:thapliyalankit27@gmail.com" target="_blank">
+  <a href="mailto:thapliyalankit60@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="30"/>
   </a>
 </p>
 
+
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+</p>
+
+### ☕ Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API"/>
+</p>
 ### 🛠 Languages & Tools  
 <p>
     <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" width="45" height="45"/>
