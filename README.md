@@ -1,4 +1,19 @@
-<h1 align="center">Hi, I'm Ankit Thapliyal</h1>
+<h1 align="center">Hi 👋, I'm Ankit Thapliyal</h1>
+
+<h3 align="center">Flutter Developer | Mobile Application Developer | Java Backend Developer</h3>
+
+<p align="center">
+  <a href="https://github.com/atankit">
+    <img src="https://komarev.com/ghpvc/?username=atankit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Developer;Building+Android+and+iOS+Applications;Firebase+%7C+REST+APIs+%7C+Java;Learning+Backend+Architecture" alt="Typing SVG" />
+</p>
+--------
+  
+  <h1 align="center">Hi, I'm Ankit Thapliyal</h1>
 <h2 align="center"><b>Mobile Application Developer</b></h2>
 
 <img align="right" width="350" src="https://iconscout.com/lottie-animation/male-designers-working-on-mobile-ui-animation_5967192"/>
