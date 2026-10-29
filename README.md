@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ankit Thapliyal</h1>
-<h2 align="center"><b>Flutter Developer</b></h2>
+<h1 align="center">Hi, I'm Ankit Thapliyal</h1>
+<h2 align="center"><b>Mobile Application Developer</b></h2>
 
-<img align="right" width="350" src="https://res.cloudinary.com/mohin-in/image/upload/v1600498904/main/hero.gif"/>
+<img align="right" width="350" src="https://iconscout.com/lottie-animation/male-designers-working-on-mobile-ui-animation_5967192"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=atankit&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
