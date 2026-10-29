@@ -19,7 +19,7 @@ I'm a **Mobile Application Developer with 1+ year of experience in Flutter devel
 - 🌱 Continuously learning advanced Flutter, Native Android, Java, and backend architecture.
   
  <p align="center">
-  🟢 <b>Open to Opportunities </b> — **Flutter Development | Native Android Development | Mobile Application Development**
+  🟢 <b>Open to Opportunities — Flutter Development | Native Android Development | Mobile Application Development </b>
 </p>
 
 ## 🛠️ Tech Stack
